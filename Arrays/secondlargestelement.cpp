@@ -42,7 +42,7 @@ int getElement(int arr[],int n){
 
 int main(){
     
-   int arr[]={6,48,2,6,5,7};
+   int arr[]={6,48,2,6,5};
     int n= sizeof(arr)/sizeof(arr[0]);
     getElement(arr,n);
 

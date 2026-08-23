@@ -15,7 +15,7 @@ int sortArr(vector <int>& arr){
             max=arr[i];//update max
         }
     }
-    return max;
+    return max;//return max
 }
 
 int main(){
